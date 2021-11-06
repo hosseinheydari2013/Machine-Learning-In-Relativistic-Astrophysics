@@ -4,5 +4,5 @@ This repo shows the typical example of using Machine Learning in Astrophysics. T
 1. Is there any difference in the accuracy of the decision trees between quasi-stellar objects (QSO) and regular Galaxies ? 
 2. What will be the best fraction of split and test data? 
 
-Remarks:
+# Remarks:
 1. To run the notebook you need to have access to "sdss_galaxy_colors.npy" data which is located in data directory of the current repo. 
